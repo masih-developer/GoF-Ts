@@ -1,3 +1,5 @@
-import test from "./Creational/Singleton";
+import singletonMainTest from "./Creational/Singleton";
+import loggerTest from "./Creational/Singleton/Logger";
 
-test();
+singletonMainTest();
+loggerTest();
